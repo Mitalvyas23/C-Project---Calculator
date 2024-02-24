@@ -1,3 +1,6 @@
+/*-----CALCULATOR------
+PROGRAMMER = Mital vays
+
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
